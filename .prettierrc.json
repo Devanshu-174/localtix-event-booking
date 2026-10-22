@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "tabWidth": 2,
+  "plugins": [
+    "./frontend/node_modules/prettier-plugin-java/dist/index.mjs"
+  ]
+}
+

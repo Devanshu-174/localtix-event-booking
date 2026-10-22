@@ -1,0 +1,10 @@
+Event cover photographs downloaded from Unsplash image hosting, 2026-10-23.
+Original source IDs (https://images.unsplash.com/<ID>):
+indie-night.jpg: photo-1501386761578-eac5c94b800a
+acoustic-evening.jpg: photo-1493225457124-a3eb161ffa5f
+pottery-beginners.jpg: photo-1565193566173-7a0ee3dbe261
+pottery-workshop.jpg: photo-1578749556568-bc2c40e68b61
+comedy-saturday.jpg: photo-1585699324551-f6c309eedeca
+comedy-club.jpg: photo-1516280440614-37939bbacd81
+art-walk.jpg: photo-1513364776144-60967b0f800f
+photography-workshop.jpg: photo-1452587925148-ce544e77e70d
